@@ -9,7 +9,7 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
+  "companyName": "ACME Demo",
   "companyLogoPath": "",
   "companyUrl": "",
   "careersUrl": "",
@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "4SAAI1",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "60",
     "fields": [
       "id",
       "title",
@@ -85,7 +85,7 @@
   },
   "privacyConsent": {
     "consentCheckbox": false,
-    "sidebarLink": false,
+    "sidebarLink": true,
     "privacyPolicyUrl": "/privacy"
   }
 }
