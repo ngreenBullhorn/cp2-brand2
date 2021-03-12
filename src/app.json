@@ -64,9 +64,9 @@
     ]
   },
   "additionalJobCriteria": {
-    "field": "[ FILTER FIELD HERE ]",
+    "field": "employmentType",
     "values": [
-      "[ FILTER VALUE HERE ]"
+      "Temporary"
     ],
     "sort": "-dateLastPublished"
   },
